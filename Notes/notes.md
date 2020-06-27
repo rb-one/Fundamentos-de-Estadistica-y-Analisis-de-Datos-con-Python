@@ -2,11 +2,43 @@
 
 ## Modulo 1 Introducir conceptos básicos del curso
 
+
 ### Clase 1 Introducción al curso
+
+Mapa de Trabajo
+
+![Introduccion](src/Introduccion.png)
 
 ### Clase 2 Pensamiento estadístico para programadores
 
+![Que es python?](src/Introduccion_1.png)
+
+![Python y Estadistica](src/Introduccion_2.png)
+
+#### Ejercicio con jupyter Sesion 2
+
+Vemos un breve repaso sobre jupyter notebook y python, uso de modulo OS,Un resumen de Pandas, Breve vistazo a TensorFlow
+
+![Python y Estadistica](src/Introduccion_3.png)
+![Python y Estadistica](src/Introduccion_4.png)
+![Python y Estadistica](src/Introduccion_5.png)
+![Python y Estadistica](src/Introduccion_6.png)
+
 ### Clase 3 Conceptos clave sobre estadística
+
+![Conceptos_estadistica_1](src/Conceptos_estadistica_1.png)
+
+![Conceptos_estadistica_2](src/Conceptos_estadistica_2.png)
+
+![Conceptos_estadistica_3](src/Conceptos_estadistica_3.png)
+
+#### Ejercicio con jupyter Sesion 3
+
+![Conceptos_estadistica_4](src/Conceptos_estadistica_3.png)
+
+![Conceptos_estadistica_5](src/Conceptos_estadistica_5.png)
+
+![Conceptos_estadistica_6](src/Conceptos_estadistica_6.png)
 
 ## Modulo 2 Caracterizar información a traves del análisis exploratorio
 

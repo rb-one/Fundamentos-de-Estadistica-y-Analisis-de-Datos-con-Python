@@ -1,0 +1,5 @@
+# jupyter checkpoints
+.ipynb_checkpoints/*
+
+# venv
+probabilidad_estadistica
