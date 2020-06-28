@@ -42,49 +42,129 @@ Vemos un breve repaso sobre jupyter notebook y python, uso de modulo OS,Un resum
 
 ## Modulo 2 Caracterizar información a traves del análisis exploratorio
 
-### Clase 4 Introducción al curso
+### Clase 4 Medidas de tendencia central
 
-### Clase 5 Pensamiento estadístico para programadores
+![medidas_de_tendencia_central](src/medidas_de_tendencia_central.png)
 
-### Clase 6 Conceptos clave sobre estadística
+#### Ejercicio con jupyter Sesion 4
+
+![medidas_de_tendencia_central_1](src/medidas_de_tendencia_central_1.png)
+![medidas_de_tendencia_central_2](src/medidas_de_tendencia_central_2.png)
+![medidas_de_tendencia_central_3](src/medidas_de_tendencia_central_3.png)
+
+### Clase 5 Diagramas de frecuencias para variables continuas y discretas
+
+Diagramas de Frecuencia o Histogramas
+
+![histograma](src/histograma.png)
+
+- **Variables categoricas:** Tablas de Frecuencia
+- **Variables numericas:** Percentiles, Decils, Quintiles y Quartiles, outliers o valores extremos
+
+Un **percentil** es una medida estadística utilizada para comparar datos. Consiste en un número de 0 a 100 que indica el porcentaje de datos que son igual o menor que un determinado valor. Los percentiles son muy conocidos por su uso en los percentiles de crecimiento. Por ejemplo, si el peso de un bebé está en el percentil 65, quiere decir que el 65% de los bebés de la misma edad pesan igual o menos.
+
+Los percentiles son muy conocidos por su uso en los percentiles de crecimiento. Por ejemplo, si el peso de un bebé está en el percentil 65, quiere decir que el 65% de los bebés de la misma edad pesan igual o menos.
+
+#### Ejercicio con jupyter Sesion 5
+
+![pensamient_estadistico_1](src/pensamient_estadistico_1.png)
+
+![pensamient_estadistico_2](src/pensamient_estadistico_2.png)
+
+![pensamient_estadistico_3](src/pensamient_estadistico_3.png)
+
+![pensamient_estadistico_4](src/pensamient_estadistico_4.png)
+
+### Clase 6 Visualizacion de datos usando Python
+
+#### Ejercicio con jupyter Sesion 6
+
+![visualizacion_datos_1](src/visualizacion_datos_1.png)
+
+![visualizacion_datos_2](src/visualizacion_datos_2.png)
+
+![visualizacion_datos_3](src/visualizacion_datos_3.png)
+
+![visualizacion_datos_4](src/visualizacion_datos_4.png)
+
+### Clase 7 Boxplt y scatterplot
+
+Éstas dos gráficas son ampliamente usadas en el análisis estadístico, nos permite visualizar la relación de dos variables conjuntas. Podemos ver la correlación entre las dos variables.
+
+hemos hablado de los cuartiles y como estos van apermitirnos aproximarnos a la distriucion de una variable, los boxplots seran graficamente la representacion de estos cuartiles
 
 ## Modulo 3 Aplicar conceptos de probabilidad a eventos aleatorios
 
-### Clase 7 Introducción al curso
+### Clase 8 Probabilidad condicional - Teorema de Vayes
 
-### Clase 8 Pensamiento estadístico para programadores
+![Aplicacion_teorema_bayes](src/Aplicacion_teorema_bayes.png)
 
-### Clase 9 Conceptos clave sobre estadística
+![Aplicacion_teorema_bayes_1](src/Aplicacion_teorema_bayes_1.png)
+
+### Clase 9 Funciones de distribución discreta y continua
+
+![funciones_de_distribucion_1](src/funciones_de_distribucion_1.png)
+
+![funciones_de_distribucion_2](src/funciones_de_distribucion_2.png)
+
+![funciones_de_distribucion_3](src/funciones_de_distribucion_3.png)
+
+![funciones_de_distribucion_4](src/funciones_de_distribucion_4.png)
+
+#### Ejercicio con jupyter Sesion 9
+
+![funciones_de_probabilidades_discretas](src/funciones_de_probabilidades_discretas.png)
+
+### Clase 10 Funciones de distribucion discreta y continua con Python
+
+![funciones_de_probabilidades_continuas](src/funciones_de_probabilidades_continuas.png)
+
+### Clase 11 Distribuciones de mayor aplicacion discretas
+
+Distribuciones de mayor aplicacion discretas
+
+1. Distribucion de **Bernoilli** (experimento binario asociado a exito o fracaso) modela una variable binaria  1 o 0.
+2. Distribucion **Binomial**: Es la suma de variables aleatorias de Bernoulli con N ensayos Bernoulli queremos contar el numero de exitos x asociados.
+3. Distribucion **Geometrica**: Numero de ensayos x hasta 1 exito.
+4. Distribucion **Binomial Negativa**: Es una generalizacion de la distribucion geometrica, donde vamos a contar el numero de ensayos x hasta el k-esimo exito.
+5. Distribucion de **Poisson**: Numero de llegadas N a una longitud de tiempo t.
+
+#### Sesion 11 Jupyter
+
+![Distribucion_bernoulli.png](src/Distribucion_bernoulli.png)
+
+![Distribucion_binomial.png](src/Distribucion_binomial.png)
+
+![Distribucion_geometrica.png](src/Distribucion_geometrica.png)
+
+![Distribucion_binomial_negativa.png](src/Distribucion_binomial_negativa.png)
+
+![Distribucion_poisson.png](src/Distribucion_poisson.png)
+
+### Clase 12 Distribuciones de mayor aplicación continuas
+
+- Distribucion **Exponencial**: Es el caso inverso de Poisson, aqui contamos el tiempo que nos toma llegar a uno de esos eventos.
+- Distribucion **Normal**
+- Distribucion **Uniforme**
+
+![Distribucion_exponencial.png](src/Distribucion_exponencial.png)
+
+![Distribucion_normal.png](src/Distribucion_normal.png)
+
+![Distribucion_uniforme.png](src/Distribucion_uniforme.png)
+
+### Clase 13 Estandarización, covarianza y correlación
+
+![Estandarizacion_1.png](src/Estandarizacion_1.png)
+
+![Estandarizacion_2.png](src/Estandarizacion_2.png)
+
+![Estandarizacion_3.png](src/Estandarizacion_3.png)
+
+![Estandarizacion_4.png](src/Estandarizacion_4.png)
+
+![Estandarizacion_5.png](src/Estandarizacion_5.png)
 
 ## Modulo 4 Construir conceptos estadísticos analíticos
 
-### Clase 10 Introducción al curso
-
-### Clase 11 Pensamiento estadístico para programadores
-
-### Clase 12 Conceptos clave sobre estadística
-
-## Modulo 5 Realizar inferencias estadisticas a partir de una muestra
-
-### Clase 13 Introducción al curso
-
-### Clase 14 Pensamiento estadístico para programadores
-
-### Clase 15 Conceptos clave sobre estadística
-
-## Modulo 6 Usar modelos estadísticos para exploración y predicción
-
-### Clase 16 Introducción al curso
-
-### Clase 17 Pensamiento estadístico para programadores
-
-### Clase 18 Conceptos clave sobre estadística
-
-## Modulo 7 Introducir conceptos de analítica avanzada
-
-### Clase 19 Introducción al curso
-
-### Clase 20 Pensamiento estadístico para programadores
-
-### Clase 21 Conceptos clave sobre estadística
-
+### Clase 14 Estimadores a través de datos
