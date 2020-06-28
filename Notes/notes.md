@@ -168,3 +168,58 @@ Distribuciones de mayor aplicacion discretas
 ## Modulo 4 Construir conceptos estadísticos analíticos
 
 ### Clase 14 Estimadores a través de datos
+
+![estimadores_1](src/estimadores_1.png)
+
+![estimadores_2](src/estimadores_2.png)
+
+![estimadores_3](src/estimadores_3.png)
+
+### Clase 15 Estimadores de máxima verosimilitud
+
+Son estimadores que han sido calculados usando la funcion de verosimilitud o funcion de probabilidad de ocrrencia de la muestra.
+
+![estimadores_4](src/estimadores_4.png)
+
+![estimadores_5](src/estimadores_5.png)
+
+![estimadores_6](src/estimadores_6.png)
+
+### Clase 16 Distribuciones muestrales
+
+El promedio muestral que proviene de x tambien tiene una distribucion y es una variable aleatoria.
+
+![distribuciones_muestrales_1](src/distribuciones_muestrales_1.png)
+
+![distribuciones_muestrales_2](src/distribuciones_muestrales_2.png)
+
+![distribuciones_muestrales_3](src/distribuciones_muestrales_3.png)
+
+![distribuciones_muestrales_4](src/distribuciones_muestrales_4.png)
+
+### Clase 17 Teorema del límite central
+
+Nos permite aproximar la funcion de distribucion e una variable aleatoria de la cual no conocemos previamente su distribucion.
+
+![limite_central_1](src/limite_central_1.png)
+
+![limite_central_2](src/limite_central_2.png)
+
+## Modulo 6 Usar modelos estadísticos para exploración y predicción
+
+
+
+## Modulo 5 Realizar inferencias estadisticas a partir de una muestra
+
+
+
+### Clase 18 Conceptos clave sobre estadística
+
+## Modulo 7 Introducir conceptos de analítica avanzada
+
+### Clase 19 Introducción al curso
+
+### Clase 20 Pensamiento estadístico para programadores
+
+### Clase 21 Conceptos clave sobre estadística
+
