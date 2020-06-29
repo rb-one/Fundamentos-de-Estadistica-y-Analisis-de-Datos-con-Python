@@ -286,9 +286,15 @@ Los arboles de desicion estan inspirados en la forma en que los humanos tomamos 
 
 ## Modulo 7 Introducir conceptos de analítica avanzada
 
-### Clase 24 Proyecto análisis exploratorio: Descriptivos, outliers, creación y selección de variables
+### Clase 25 Proyecto análisis exploratorio: Descriptivos, outliers, creación y selección de variables
+
+![Proyecto_1](src/Proyecto_1.png)
+
+![Proyecto_2](src/Proyecto_2.png)
+
+![Proyecto_3](src/Proyecto_3.png)
 
 
-### Clase 25 Proyecto analisis predictivo
+### Clase 26 Proyecto análisis predictivo
 
-### Clase 26 Cierre de Curso
+![Proyecto_4](src/Proyecto_4.png)
