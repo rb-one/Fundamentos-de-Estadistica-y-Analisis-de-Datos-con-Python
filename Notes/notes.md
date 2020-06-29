@@ -205,21 +205,48 @@ Nos permite aproximar la funcion de distribucion e una variable aleatoria de la 
 
 ![limite_central_2](src/limite_central_2.png)
 
-## Modulo 6 Usar modelos estadísticos para exploración y predicción
-
-
-
 ## Modulo 5 Realizar inferencias estadisticas a partir de una muestra
 
+### Clase 18 Pruebas de hipótesis
+
+![Pruba_hipotesis_1](src/Pruba_hipotesis_1.png)
+
+![Pruba_hipotesis_2](src/Pruba_hipotesis_2.png)
+
+![Pruba_hipotesis_3](src/Pruba_hipotesis_3.png)
+
+![Pruba_hipotesis_4](src/Pruba_hipotesis_4.png)
+
+![Pruba_hipotesis_5](src/Pruba_hipotesis_5.png)
+
+![Pruba_hipotesis_6](src/Pruba_hipotesis_6.png)
+
+### Clase 19 Errores Estadisticos Tipo  1 y Tipo 2
+
+Comumente al realizar analisis estadisticos debemos entender que existe un grado de error que debemos medir y cuantificar.
+
+**Error de tipo Alfa:** cuando rechazamos la hipotesis nula, dado que era verdadera.
+
+**Error de tipo beta:** indica la probabilidad de no rechazar la hipotesis nula dado que la alterna era verdadera
+
+![Errores_estadisticos_1](src/Errores_estadisticos_1.png)
+
+![Errores_estadisticos_2](src/Errores_estadisticos_2.png)
+
+![Errores_estadisticos_3](src/Errores_estadisticos_3.png)
 
 
-### Clase 18 Conceptos clave sobre estadística
+### Clase 20 Intervalos de Confianza
 
-## Modulo 7 Introducir conceptos de analítica avanzada
+Los intervalos de confianza nos permmiten encontrar un limite infefior y un limite superior tales que acumulen una cierta probabilidad o **confianza**, de que el parametro poblacional estara contenido y podra tomar ese valor en diferentes escenarios donde sea medida esa variable.
 
-### Clase 19 Introducción al curso
+![intervalos_de_confianza_1](src/intervalos_de_confianza_1.png)
 
-### Clase 20 Pensamiento estadístico para programadores
+![intervalos_de_confianza_2](src/intervalos_de_confianza_2.png)
 
-### Clase 21 Conceptos clave sobre estadística
+![intervalos_de_confianza_3](src/intervalos_de_confianza_3.png)
+
+![intervalos_de_confianza_4](src/intervalos_de_confianza_4.png)
+
+
 
