@@ -248,5 +248,47 @@ Los intervalos de confianza nos permmiten encontrar un limite infefior y un limi
 
 ![intervalos_de_confianza_4](src/intervalos_de_confianza_4.png)
 
+## Modulo 6 Usar modelos estadísticos para exploración y predicción
+
+### Clase 21 Regresión lineal
+
+![Regresion_lineal_1](src/Regresion_lineal_1.png)
+
+![Regresion_lineal_2](src/Regresion_lineal_2.png)
+
+![Regresion_lineal_3](src/Regresion_lineal_3.png)
+
+![Regresion_lineal_4](src/Regresion_lineal_4.png)
+
+### Clase 22 Regresión Logistica
+
+Nos permite aproximar el valor de una variable categorica aleatoria.
+
+![regresion_logistica_1](src/regresion_logistica_1.png)
+
+![regresion_logistica_2](src/regresion_logistica_2.png)
+
+![regresion_logistica_3](src/regresion_logistica_3.png)
+
+### Clase 23 Árboles de regresión y de clasificación
+
+Los arboles de desicion estan inspirados en la forma en que los humanos tomamos desiciones, estan conformados por nodos, ramas y hojas.
+
+- **nodos** encontramos las variables aleatorias x
+
+- **ramas** las deciciones que se aplican a x
+
+- **hojas** valor de y bajo la desicion que hemos tomado para x
+
+![Arbol_desicion](src/Arbol_desicion.png)
+
+![Arbol_desicion_1](src/Arbol_desicion_1.png)
+
+## Modulo 7 Introducir conceptos de analítica avanzada
+
+### Clase 24 Proyecto análisis exploratorio: Descriptivos, outliers, creación y selección de variables
 
 
+### Clase 25 Proyecto analisis predictivo
+
+### Clase 26 Cierre de Curso
